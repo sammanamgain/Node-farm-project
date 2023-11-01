@@ -49,5 +49,8 @@ This project is available under the MIT License.
 Contact
 If you have any questions or feedback, feel free to reach out:
 
-Email: your.email@example.com
+Email: amgain02@gmail.com
 Enjoy exploring the food product information with this simple Node.js project!
+screenshot:
+![image](https://github.com/sammanamgain/Node-farm-project/assets/78356846/c8ff725d-ceb3-43ae-a4ad-400ca8e1ce8d)
+
