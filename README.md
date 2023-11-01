@@ -22,3 +22,32 @@ This Node.js project is a simple web server for displaying food product informat
    # or
    yarn install
 
+Usage
+Start the server by running:
+
+node index.js
+
+Access the following routes in your browser:
+
+Overview: http://localhost:8000/overview
+Individual Product: http://localhost:8000/product?id=<product_id>
+Routes
+/overview or /: Displays an overview of food products.
+/product?id=<product_id>: Displays detailed information for a specific product based on its ID.
+Dependencies
+fs: For reading files from the file system.
+http: For creating the web server.
+url: For parsing URLs.
+dynamictemplate.js: A custom module for generating dynamic HTML content.
+data.json: JSON data file containing product information.
+Project Status
+This is a basic Node.js project for educational purposes and can be extended or customized for specific use cases.
+
+License
+This project is available under the MIT License.
+
+Contact
+If you have any questions or feedback, feel free to reach out:
+
+Email: your.email@example.com
+Enjoy exploring the food product information with this simple Node.js project!
